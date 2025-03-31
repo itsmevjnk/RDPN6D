@@ -96,7 +96,7 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 normalSpeed==0.0.1
 numba==0.60.0
-numpy==1.23.4
+numpy==1.23.1
 nvidia-cublas-cu11==11.11.3.6
 nvidia-cuda-cupti-cu11==11.8.87
 nvidia-cuda-nvrtc-cu11==11.8.89
