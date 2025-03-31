@@ -71,7 +71,7 @@ jupyterlab_widgets==3.0.11
 keras==2.11.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.5
-KNN-NanoFLANN==0.0.0
+flann
 lazy_loader==0.3
 libclang==18.1.1
 lightning-utilities==0.11.3.post0
