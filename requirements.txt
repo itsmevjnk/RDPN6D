@@ -97,17 +97,17 @@ networkx==3.2.1
 git+https://github.com/itsmevjnk/normalSpeed.git
 numba==0.60.0
 numpy==1.23.1
-nvidia-cublas-cu11==11.11.3.6
-nvidia-cuda-cupti-cu11==11.8.87
-nvidia-cuda-nvrtc-cu11==11.8.89
-nvidia-cuda-runtime-cu11==11.8.89
-nvidia-cudnn-cu11==8.7.0.84
-nvidia-cufft-cu11==10.9.0.58
-nvidia-curand-cu11==10.3.0.86
-nvidia-cusolver-cu11==11.4.1.48
-nvidia-cusparse-cu11==11.7.5.86
-nvidia-nccl-cu11==2.19.3
-nvidia-nvtx-cu11==11.8.86
+# nvidia-cublas-cu11==11.11.3.6
+# nvidia-cuda-cupti-cu11==11.8.87
+# nvidia-cuda-nvrtc-cu11==11.8.89
+# nvidia-cuda-runtime-cu11==11.8.89
+# nvidia-cudnn-cu11==8.7.0.84
+# nvidia-cufft-cu11==10.9.0.58
+# nvidia-curand-cu11==10.3.0.86
+# nvidia-cusolver-cu11==11.4.1.48
+# nvidia-cusparse-cu11==11.7.5.86
+# nvidia-nccl-cu11==2.19.3
+# nvidia-nvtx-cu11==11.8.86
 oauthlib==3.2.2
 omegaconf==2.3.0
 onnx==1.12.0
