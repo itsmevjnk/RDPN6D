@@ -94,7 +94,7 @@ mypy-extensions==1.0.0
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.2.1
-normalSpeed==0.0.1
+git+https://github.com/itsmevjnk/normalSpeed.git
 numba==0.60.0
 numpy==1.23.1
 nvidia-cublas-cu11==11.11.3.6
